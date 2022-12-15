@@ -1,0 +1,76 @@
+{
+  "list": [
+    {
+      "name": "小儿咽扁颗粒009",
+      "factory": "江西制药01",
+      "price": 38,
+      "number": "国药准字号08",
+      "specification": "10袋",
+      "productionDate": "2022-12-15",
+      "id": "TbqQprN"
+    },
+    {
+      "name": "小儿咽扁颗粒",
+      "factory": "三九制药",
+      "price": 34,
+      "number": "国药准字08",
+      "specification": "袋",
+      "productionDate": "2022-12-14",
+      "id": "H6keqVG"
+    }
+  ],
+  "users": {
+    "code": 0,
+    "message": "注册成功",
+    "data": [
+      {
+        "id": 1,
+        "name": "张三",
+        "password": 123456
+      }
+    ]
+  },
+  "login": {
+    "code": 0,
+    "message": "登录成功",
+    "token": "jfeifjwoefjwofej"
+  },
+  "detail": [
+    {
+      "id": "1",
+      "name": "莲花清瘟",
+      "price": 32,
+      "factory": "石家庄以岭药业股份有限公司",
+      "number": "国药准字Z41022373",
+      "specification": "36粒",
+      "productionDate": "2021-10-09"
+    },
+    {
+      "id": "2",
+      "name": "蒲地蓝消炎片",
+      "price": 42,
+      "factory": "广东心宝药业科技有限公司",
+      "number": "国药准字Z41022379",
+      "specification": "48片",
+      "productionDate": "2021-11-07"
+    },
+    {
+      "id": "3",
+      "name": "抗病毒口服液",
+      "price": 24,
+      "factory": "河南同源制药有限公司",
+      "number": "国药准字Z41022378",
+      "specification": "8支",
+      "productionDate": "2022-05-13"
+    },
+    {
+      "id": "4",
+      "name": "头孢克肟胶囊",
+      "price": 18,
+      "factory": "河南同源制药有限公司",
+      "number": "国药准字Z4102170",
+      "specification": "18粒",
+      "productionDate": "2022-02-19"
+    }
+  ]
+}

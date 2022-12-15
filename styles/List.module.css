@@ -1,0 +1,18 @@
+.delete {
+    cursor: pointer;
+    background: red;
+    color: #fff;
+    padding:2px 4px;
+    border-radius: 4px;
+}
+
+.update {
+    margin-right: 16px;
+    cursor: pointer;
+}
+
+.add {
+    background: green;
+    color: #fff;
+    margin-right: 20px;
+}
